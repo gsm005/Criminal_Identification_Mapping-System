@@ -1,6 +1,5 @@
 # Artificial Intelligence Enabled Identification and Mapping of Criminals using Live Footage on Google Maps
 
-## Project Overview
 
 The project aims to detect criminals and trace their location using artificial intelligence and live surveillance footage. This system is designed to identify and map criminals in real-time on Google Maps.
 
